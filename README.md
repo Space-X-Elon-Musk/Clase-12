@@ -20,4 +20,4 @@ Luego, se armaron dos duplas: Magdalena con María Jesús y Isidora con Valentin
 
 ### Boceto Final
 
-Finalmente, se fusionaron ambos bocetos grupales...
+Finalmente, se fusionaron ambos bocetos grupales, combinando los gráficos de cada dupla. Se realizó un pequeño cambio en la narrativa, poniendo el subtema "Naves de SpaceX" después de la introducción para entregar información relevante para entender el siguiente subtema de "Naves reutilizables".
