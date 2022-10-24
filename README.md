@@ -13,3 +13,11 @@ En este storyboard grupal realizado en Miró se puede observar la organización 
 ### Bocetos Individuales
 
 Cada integrante del grupo hizo un boceto de cómo se imaginan la diagrmación y gráficos de los componentes, teniendo en cuenta lo planificado en el storyboard.
+
+### Bocetos Grupales
+
+Luego, se armaron dos duplas: Magdalena con María Jesús y Isidora con Valentina. Así, se fusionaron los bocetos individuales en 2 bocetos grupales, utilizando los elementos que los grupos consideraron que representaban mejor la información expuesta.
+
+### Boceto Final
+
+Finalmente, se fusionaron ambos bocetos grupales...
